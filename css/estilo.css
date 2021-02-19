@@ -1,0 +1,61 @@
+.container {
+	width: 330px;
+}
+
+.or {
+	font-size: 13px;
+	color: #999;
+	font-weight: 600;
+}
+
+.or::before {
+	content:'';
+	background: #dcdcdc;
+	display: block;
+	height: 2px;
+	width: 100px;
+	position: relative;
+	top: 28px;
+	left: 25px;
+}
+
+.or::after {
+	content:'';
+	background: #dcdcdc;
+	display: block;
+	height: 2px;
+	width: 100px;
+	position: relative;
+	bottom: 10px;
+	left: 173px;
+}
+
+.facebook a {
+	text-decoration: none;
+	font-size: 14px;
+}
+
+.facebook a span {
+	color: black;
+}
+
+.senha a {
+	font-size: 12px;
+	text-decoration: none;
+	color: black;
+}
+
+.cadastrar {
+	font-size: 14px;
+	padding: 20px;
+	text-align: center;
+}
+
+.cadastrar a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.aplicativo {
+	font-size: 14px;
+}
