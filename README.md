@@ -1,5 +1,5 @@
 # Clone Login Instagram
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaobruno05/site-barbearia/blob/master/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaobruno05/clone-login-instagram/blob/main/LICENSE)
 
 # Sobre o projeto
 
