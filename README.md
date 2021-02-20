@@ -11,4 +11,4 @@ Criei um clone do login do instagram, apenas da parte de autenticação de email
 - CSS
 
 ## Framework
-- Bootstrap 4
+- Bootstrap
